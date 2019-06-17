@@ -21,21 +21,5 @@ fs.readFile("linkData.txt", "utf-8", (err, data) => {
             .catch(err => {
                 console.error(err);
             });
-        // var b = new URL(item);
-        // (async() => {
-        //     try {
-        //         const res = await fetch(b);
-
-        //         if (res.status >= 400) {
-        //             throw new Error("Bad response from server");
-        //         }
-
-        //         const data = await res.json();
-
-        //         console.log(data);
-        //     } catch (err) {
-        //         console.error(err);
-        //     }
-        // })();
     })
 })
