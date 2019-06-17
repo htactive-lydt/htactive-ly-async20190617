@@ -1,0 +1,1 @@
+<img src="image3/Banner-poem.jpg" width="275" height="119" alt="A poem about your life. Click Here." border="0">,image3/Banner-poem.jpg

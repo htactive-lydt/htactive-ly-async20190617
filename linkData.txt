@@ -1,0 +1,1 @@
+google.com,facebook.com,gmail.com,w3school.com,fontawesome.com/v4.7.0/icons/,youtube.com
